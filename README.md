@@ -1,2 +1,4 @@
-# Fbcracker
-This was my first tool so please don't mind the design mind the work
+This is a tool for you guys 
+it cracks fb
+it's my first ever tool :-)
+so enjoys cracking hacking
